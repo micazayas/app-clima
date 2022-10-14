@@ -12,7 +12,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: rgba(34, 34, 34, 0.974);
@@ -36,6 +35,8 @@ body {
     text-align: center;
     font-size: 1.2rem;
 }
+
+.back
 
 /*--------------------------------------------------------------
 # SEARCH BAR
