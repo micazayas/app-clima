@@ -14,11 +14,11 @@ No la pases mal en tus vacaciones. Con esta aplicación Web Progresiva desarroll
 
 - El usuario puede buscar el clima por ciudad, provincia o pais.
 - Se mostrar los datos: temperatura máxima, temperatura mínima, humedad, sensación térmica, presión atmosférica y velocidad de viento.
-- El usuario podrá ver el mapa de la ciudad elegida y también una foto de fondo que ilustra el clima actual (falta estilar la foto para que se adapte al body y no se repite, trabajo que se hará a futuro)
+- El usuario podrá ver el mapa de la ciudad elegida y también una foto de fondo que ilustra el clima actual (falta estilar la foto para que se adapte al body y no se repita, trabajo que se hará a futuro)
 
 ## 🎨 Diseño
 
-Se eligió un diseño siguiente algunos patrones de iphone como las transparencias, minimalismo y flat icons. Por tal motivo la palela es monocromatica y lo que varia son las fotos de fondo.
+Se eligió un diseño siguiente algunos patrones de iphone como las transparencias, minimalismo y flat icons. Por tal motivo la paleta es monocromatica y lo que varia son las fotos de fondo.
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
