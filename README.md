@@ -1,6 +1,6 @@
 <h1 align="left">  🌤 ☃⚡ Aplicación del clima</h1>
 
-No la pases mal en tus vacaciones con esta aplicación Web Progresiva desarrollada vas a saber el dato más importante si sos team invierno o team verano: el clima. 
+No la pases mal en tus vacaciones. Con esta aplicación Web Progresiva desarrollada vas a saber el dato más importante si sos team invierno o team verano: el clima. 
 
 ## 💻 Técnologías utilizadas
 
