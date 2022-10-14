@@ -16,7 +16,7 @@ No la pases mal en tus vacaciones. Con esta aplicación Web Progresiva desarroll
 - Se mostrar los datos: temperatura máxima, temperatura mínima, humedad, sensación térmica, presión atmosférica y velocidad de viento.
 - El usuario podrá ver el mapa de la ciudad elegida y también una foto de fondo que ilustra el clima actual (falta estilar la foto para que se adapte al body y no se repite, trabajo que se hará a futuro)
 
-DISEÑO:
+## 🎨 Diseño
 
 Se eligió un diseño siguiente algunos patrones de iphone como las transparencias, minimalismo y flat icons. Por tal motivo la palela es monocromatica y lo que varia son las fotos de fondo.
 
