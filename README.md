@@ -12,8 +12,6 @@ No la pases mal en tus vacaciones. Con esta aplicación Web Progresiva desarroll
 
 ## 🔨 Funcionalidades del proyecto
 
-Sistema de compra on-line (carrito de compras) que consta de:
-
 - El usuario puede buscar el clima por ciudad, provincia o pais.
 - Se mostrar los datos: temperatura máxima, temperatura mínima, humedad, sensación térmica, presión atmosférica y velocidad de viento.
 
